@@ -9,15 +9,15 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-          <a id="brand" class="navbar-brand" href="">Masrizal's Profile</a>
+          <a id="brand" class="navbar-brand" href="../uts/">Masrizal's Profile</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li class="active"><a href="index.php">Home <span class="sr-only">(current)</span></a></li>
-            <li><a href="../gallery.php">Gallery <span class="sr-only">(current)</span></a></li>
-            <li><a href="../about.php">About <span class="sr-only">(current)</span></a></li>
+            <li><a href="../uts/gallery.php">Gallery <span class="sr-only">(current)</span></a></li>
+            <li><a href="../uts/about.php">About <span class="sr-only">(current)</span></a></li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sosial Media <span class="caret"></span></a>
               <ul class="dropdown-menu">
@@ -39,7 +39,7 @@
             <!-- <button type="submit" class="btn btn-default">Submit</button> -->
           </form>
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="../login.php">Login</a></li>
+            <li><a href="../uts/login.php">Login</a></li>
             <!-- <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
               <ul class="dropdown-menu">
